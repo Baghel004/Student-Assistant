@@ -27,7 +27,7 @@ const VideoSummarizer: React.FC = () => {
     setError('');
     setSummarizing(true);
     try {
-      const res = await fetch('http://localhost:3030/api/summarize', {
+      const res = await fetch('https://student-assistant-nine.vercel.app/api/summarize', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ videoUrl }),

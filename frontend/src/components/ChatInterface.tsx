@@ -18,7 +18,7 @@ const ChatInterface: React.FC = () => {
     setInput('');
     setIsTyping(true);
     try {
-      const res = await fetch('http://localhost:3030/api/chat', {
+      const res = await fetch('https://student-assistant-nine.vercel.app/api/chat', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ message: input }),

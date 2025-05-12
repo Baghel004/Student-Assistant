@@ -78,7 +78,7 @@ const FileAnalyzer: React.FC = () => {
       const cloudinaryData = await cloudinaryRes.json();
       const uploadedUrl = cloudinaryData.secure_url;
 
-      const backendRes = await fetch('http://localhost:3030/api/analyze', {
+      const backendRes = await fetch('https://student-assistant-nine.vercel.app/api/analyze', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ url: uploadedUrl }),

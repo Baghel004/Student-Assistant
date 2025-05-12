@@ -12,7 +12,7 @@ const VideoRecommender: React.FC = () => {
     if (!topic.trim()) return;
     setSearching(true);
     try {
-      const res = await fetch('http://localhost:3030/api/recommend', {
+      const res = await fetch('https://student-assistant-nine.vercel.app/api/recommend', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ topic })
