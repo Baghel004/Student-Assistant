@@ -9,9 +9,7 @@ const path = require("path")
 const fs = require('fs');
 
 const app = express();
-app.use(cors({
-   origin: 'http://localhost:5173'} 
-));
+app.use(cors());
 app.use(bodyParser.json());
 app.use(express.json());
 
