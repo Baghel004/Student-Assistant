@@ -1,0 +1,102 @@
+Student_ID,Topic,Question_ID,Correct,Score,Time_Taken,Difficulty
+S1,Knowledge Representation and Reasoning,Q9,1,1,118,Hard
+S1,Expert Systems,Q38,0,0,115,Easy
+S1,Representing and Reasoning with Uncertain Knowledge,Q41,1,1,164,Medium
+S1,Problem Solving through Search,Q61,0,0,172,Medium
+S1,Representing and Reasoning with Uncertain Knowledge,Q37,1,1,66,Medium
+S1,Knowledge Representation and Reasoning,Q35,1,1,115,Easy
+S1,Machine Learning and Knowledge Acquisition,Q96,1,1,109,Medium
+S1,Languages for AI problem solving,Q24,1,1,107,Medium
+S1,Expert Systems,Q35,1,1,70,Easy
+S1,Decision-Making,Q78,1,1,101,Easy
+S1,Machine Learning and Knowledge Acquisition,Q11,1,1,99,Medium
+S1,Expert Systems,Q78,0,0,178,Hard
+S1,Planning,Q45,0,0,201,Medium
+S1,Knowledge Representation and Reasoning,Q79,0,0,191,Medium
+S1,Expert Systems,Q10,1,1,106,Hard
+S1,Intelligent agents,Q96,0,0,93,Hard
+S1,Problem Solving through Search,Q78,1,1,64,Hard
+S1,Expert Systems,Q9,1,1,106,Easy
+S1,Intelligent agents,Q50,0,0,109,Hard
+S1,Intelligent agents,Q48,1,1,69,Medium
+S1,Expert Systems,Q18,0,0,130,Hard
+S1,Representing and Reasoning with Uncertain Knowledge,Q32,0,0,113,Easy
+S1,Languages for AI problem solving,Q67,1,1,75,Medium
+S1,Problem Solving through Search,Q100,1,1,87,Medium
+S1,Knowledge Representation and Reasoning,Q37,1,1,122,Hard
+S1,Planning,Q16,1,1,117,Easy
+S1,Intelligent agents,Q92,1,1,163,Medium
+S1,Languages for AI problem solving,Q86,1,1,130,Medium
+S1,Expert Systems,Q38,1,1,151,Medium
+S1,Representing and Reasoning with Uncertain Knowledge,Q47,0,0,115,Hard
+S1,Machine Learning and Knowledge Acquisition,Q31,0,0,160,Medium
+S1,Intelligent agents,Q48,1,1,130,Medium
+S1,Intelligent agents,Q79,0,0,140,Easy
+S1,Planning,Q68,1,1,165,Medium
+S1,Planning,Q10,1,1,142,Easy
+S1,Representing and Reasoning with Uncertain Knowledge,Q58,1,1,104,Medium
+S1,Planning,Q100,1,1,83,Hard
+S1,Planning,Q56,1,1,67,Hard
+S1,Representing and Reasoning with Uncertain Knowledge,Q67,1,1,80,Easy
+S1,Expert Systems,Q91,1,1,180,Easy
+S1,Intelligent agents,Q37,1,1,141,Easy
+S1,Knowledge Representation and Reasoning,Q36,1,1,138,Easy
+S1,Decision-Making,Q12,1,1,135,Hard
+S1,Machine Learning and Knowledge Acquisition,Q20,1,1,152,Easy
+S1,Machine Learning and Knowledge Acquisition,Q44,0,0,200,Hard
+S1,Machine Learning and Knowledge Acquisition,Q11,1,1,158,Easy
+S1,Representing and Reasoning with Uncertain Knowledge,Q34,0,0,163,Hard
+S1,Representing and Reasoning with Uncertain Knowledge,Q80,0,0,203,Hard
+S1,Planning,Q38,1,1,121,Hard
+S1,Problem Solving through Search,Q88,0,0,99,Medium
+S1,Planning,Q21,1,1,119,Medium
+S1,Expert Systems,Q44,0,0,200,Hard
+S1,Machine Learning and Knowledge Acquisition,Q94,1,1,76,Medium
+S1,Representing and Reasoning with Uncertain Knowledge,Q66,0,0,120,Hard
+S1,Knowledge Representation and Reasoning,Q16,1,1,78,Medium
+S1,Decision-Making,Q7,1,1,170,Medium
+S1,Intelligent agents,Q54,1,1,175,Easy
+S1,Decision-Making,Q42,1,1,84,Hard
+S1,Languages for AI problem solving,Q64,0,0,202,Hard
+S1,Decision-Making,Q64,0,0,140,Easy
+S1,Planning,Q59,1,1,105,Easy
+S1,Languages for AI problem solving,Q7,1,1,172,Medium
+S1,Languages for AI problem solving,Q37,0,0,103,Hard
+S1,Machine Learning and Knowledge Acquisition,Q18,1,1,157,Medium
+S1,Planning,Q47,1,1,132,Easy
+S1,Representing and Reasoning with Uncertain Knowledge,Q25,1,1,69,Medium
+S1,Machine Learning and Knowledge Acquisition,Q65,1,1,95,Medium
+S1,Decision-Making,Q88,0,0,102,Hard
+S1,Representing and Reasoning with Uncertain Knowledge,Q48,1,1,106,Medium
+S1,Decision-Making,Q26,0,0,154,Hard
+S1,Expert Systems,Q6,0,0,132,Easy
+S1,Representing and Reasoning with Uncertain Knowledge,Q67,0,0,204,Medium
+S1,Languages for AI problem solving,Q18,1,1,100,Medium
+S1,Knowledge Representation and Reasoning,Q51,1,1,98,Hard
+S1,Expert Systems,Q44,1,1,128,Hard
+S1,Machine Learning and Knowledge Acquisition,Q91,0,0,194,Hard
+S1,Expert Systems,Q48,1,1,113,Medium
+S1,Decision-Making,Q40,1,1,140,Hard
+S1,Languages for AI problem solving,Q77,0,0,173,Medium
+S1,Languages for AI problem solving,Q74,1,1,134,Easy
+S1,Expert Systems,Q22,1,1,139,Hard
+S1,Knowledge Representation and Reasoning,Q19,0,0,163,Hard
+S1,Representing and Reasoning with Uncertain Knowledge,Q25,1,1,113,Easy
+S1,Machine Learning and Knowledge Acquisition,Q53,0,0,154,Hard
+S1,Expert Systems,Q61,1,1,150,Hard
+S1,Representing and Reasoning with Uncertain Knowledge,Q67,1,1,144,Easy
+S1,Knowledge Representation and Reasoning,Q68,0,0,112,Medium
+S1,Knowledge Representation and Reasoning,Q69,1,1,146,Medium
+S1,Representing and Reasoning with Uncertain Knowledge,Q79,0,0,121,Medium
+S1,Knowledge Representation and Reasoning,Q72,0,0,128,Medium
+S1,Expert Systems,Q91,1,1,122,Easy
+S1,Languages for AI problem solving,Q62,1,1,179,Medium
+S1,Intelligent agents,Q37,1,1,129,Easy
+S1,Representing and Reasoning with Uncertain Knowledge,Q51,1,1,162,Medium
+S1,Expert Systems,Q38,1,1,151,Easy
+S1,Expert Systems,Q45,1,1,155,Medium
+S1,Problem Solving through Search,Q28,1,1,94,Easy
+S1,Expert Systems,Q90,0,0,168,Medium
+S1,Planning,Q31,0,0,205,Easy
+S1,Expert Systems,Q29,0,0,102,Hard
+

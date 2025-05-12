@@ -1,0 +1,101 @@
+Student_ID,Topic,Question_ID,Correct,Score,Time_Taken,Difficulty
+S15,Expert Systems,Q74,1,1,98,Easy
+S9,Problem Solving through Search,Q19,1,1,35,Medium
+S17,Knowledge Representation and Reasoning,Q76,1,1,140,Easy
+S5,Knowledge Representation and Reasoning,Q64,1,1,85,Hard
+S20,Problem Solving through Search,Q86,1,1,40,Medium
+S17,Representing and Reasoning with Uncertain Knowledge,Q42,0,0,60,Hard
+S16,Representing and Reasoning with Uncertain Knowledge,Q61,1,1,52,Easy
+S20,Knowledge Representation and Reasoning,Q57,1,1,113,Hard
+S15,Knowledge Representation and Reasoning,Q89,0,0,38,Hard
+S5,Representing and Reasoning with Uncertain Knowledge,Q45,0,0,97,Hard
+S11,Expert Systems,Q81,1,1,85,Medium
+S18,Problem Solving through Search,Q66,1,1,152,Hard
+S1,Representing and Reasoning with Uncertain Knowledge,Q5,1,1,32,Medium
+S17,Problem Solving through Search,Q57,1,1,83,Medium
+S9,Knowledge Representation and Reasoning,Q80,0,0,106,Hard
+S3,Expert Systems,Q37,1,1,97,Hard
+S6,Representing and Reasoning with Uncertain Knowledge,Q2,0,0,49,Hard
+S15,Representing and Reasoning with Uncertain Knowledge,Q97,0,0,172,Medium
+S7,Expert Systems,Q13,0,0,161,Easy
+S3,Representing and Reasoning with Uncertain Knowledge,Q41,0,0,68,Easy
+S18,Representing and Reasoning with Uncertain Knowledge,Q1,1,1,118,Hard
+S15,Expert Systems,Q86,1,1,85,Medium
+S11,Problem Solving through Search,Q4,1,1,166,Hard
+S11,Problem Solving through Search,Q26,1,1,45,Medium
+S16,Problem Solving through Search,Q48,1,1,135,Easy
+S10,Knowledge Representation and Reasoning,Q2,1,1,142,Hard
+S18,Representing and Reasoning with Uncertain Knowledge,Q25,1,1,103,Easy
+S8,Expert Systems,Q9,0,0,155,Easy
+S8,Representing and Reasoning with Uncertain Knowledge,Q9,0,0,147,Easy
+S9,Expert Systems,Q49,0,0,165,Easy
+S5,Knowledge Representation and Reasoning,Q79,0,0,132,Medium
+S20,Representing and Reasoning with Uncertain Knowledge,Q25,1,1,160,Hard
+S17,Expert Systems,Q22,1,1,44,Hard
+S16,Representing and Reasoning with Uncertain Knowledge,Q39,1,1,46,Easy
+S19,Knowledge Representation and Reasoning,Q7,1,1,33,Hard
+S2,Representing and Reasoning with Uncertain Knowledge,Q72,0,0,135,Easy
+S17,Problem Solving through Search,Q20,1,1,153,Medium
+S16,Representing and Reasoning with Uncertain Knowledge,Q10,1,1,85,Hard
+S10,Problem Solving through Search,Q14,0,0,74,Hard
+S9,Problem Solving through Search,Q40,0,0,95,Medium
+S12,Knowledge Representation and Reasoning,Q43,0,0,38,Easy
+S13,Problem Solving through Search,Q9,1,1,74,Easy
+S1,Representing and Reasoning with Uncertain Knowledge,Q77,0,0,157,Medium
+S3,Expert Systems,Q10,0,0,118,Hard
+S14,Problem Solving through Search,Q46,0,0,111,Medium
+S3,Knowledge Representation and Reasoning,Q63,0,0,57,Easy
+S16,Representing and Reasoning with Uncertain Knowledge,Q60,0,0,91,Hard
+S16,Problem Solving through Search,Q62,0,0,108,Easy
+S15,Knowledge Representation and Reasoning,Q11,0,0,116,Medium
+S8,Problem Solving through Search,Q88,1,1,144,Hard
+S17,Expert Systems,Q29,0,0,68,Hard
+S20,Knowledge Representation and Reasoning,Q38,1,1,129,Hard
+S20,Representing and Reasoning with Uncertain Knowledge,Q7,0,0,102,Medium
+S19,Knowledge Representation and Reasoning,Q82,0,0,148,Hard
+S3,Representing and Reasoning with Uncertain Knowledge,Q86,1,1,93,Hard
+S19,Representing and Reasoning with Uncertain Knowledge,Q11,1,1,99,Easy
+S11,Knowledge Representation and Reasoning,Q9,1,1,50,Hard
+S15,Representing and Reasoning with Uncertain Knowledge,Q14,0,0,53,Medium
+S8,Problem Solving through Search,Q46,0,0,68,Medium
+S15,Knowledge Representation and Reasoning,Q74,1,1,59,Easy
+S1,Problem Solving through Search,Q43,0,0,105,Easy
+S13,Problem Solving through Search,Q30,1,1,43,Hard
+S18,Expert Systems,Q13,1,1,180,Hard
+S17,Expert Systems,Q11,0,0,95,Hard
+S15,Knowledge Representation and Reasoning,Q92,0,0,167,Hard
+S3,Expert Systems,Q40,1,1,130,Easy
+S13,Expert Systems,Q34,1,1,168,Easy
+S10,Knowledge Representation and Reasoning,Q7,1,1,175,Hard
+S2,Problem Solving through Search,Q3,0,0,63,Hard
+S11,Expert Systems,Q49,1,1,60,Medium
+S12,Problem Solving through Search,Q63,1,1,176,Easy
+S8,Expert Systems,Q88,1,1,97,Hard
+S15,Knowledge Representation and Reasoning,Q69,1,1,160,Easy
+S14,Knowledge Representation and Reasoning,Q35,1,1,43,Medium
+S11,Representing and Reasoning with Uncertain Knowledge,Q51,0,0,62,Hard
+S14,Problem Solving through Search,Q56,1,1,170,Easy
+S14,Representing and Reasoning with Uncertain Knowledge,Q26,0,0,41,Easy
+S3,Problem Solving through Search,Q53,0,0,127,Hard
+S9,Representing and Reasoning with Uncertain Knowledge,Q72,1,1,123,Medium
+S17,Representing and Reasoning with Uncertain Knowledge,Q42,1,1,151,Medium
+S6,Problem Solving through Search,Q75,1,1,113,Hard
+S10,Problem Solving through Search,Q95,1,1,62,Hard
+S3,Knowledge Representation and Reasoning,Q98,1,1,160,Hard
+S14,Expert Systems,Q27,0,0,146,Easy
+S3,Knowledge Representation and Reasoning,Q7,1,1,86,Hard
+S18,Problem Solving through Search,Q70,1,1,46,Easy
+S9,Representing and Reasoning with Uncertain Knowledge,Q34,0,0,115,Medium
+S11,Knowledge Representation and Reasoning,Q23,1,1,108,Medium
+S17,Expert Systems,Q43,1,1,102,Hard
+S4,Representing and Reasoning with Uncertain Knowledge,Q80,0,0,111,Hard
+S11,Knowledge Representation and Reasoning,Q27,0,0,114,Medium
+S17,Knowledge Representation and Reasoning,Q14,0,0,95,Hard
+S18,Problem Solving through Search,Q20,0,0,135,Medium
+S20,Problem Solving through Search,Q42,1,1,147,Hard
+S12,Problem Solving through Search,Q57,0,0,36,Hard
+S16,Knowledge Representation and Reasoning,Q9,1,1,58,Hard
+S3,Problem Solving through Search,Q77,1,1,102,Easy
+S5,Representing and Reasoning with Uncertain Knowledge,Q68,0,0,46,Medium
+S8,Problem Solving through Search,Q30,1,1,80,Medium
+S9,Knowledge Representation and Reasoning,Q100,1,1,53,Hard

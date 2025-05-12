@@ -1,0 +1,37 @@
+Topic,Subtopic
+Representing and Reasoning with Uncertain Knowledge,Foundations and scope
+Machine Learning and Knowledge Acquisition,"Types of agents: reactive, goal-driven, utility-driven, learning"
+Languages for AI problem solving,"State-space search (forward, backward)"
+Expert Systems,Blind vs. heuristic search
+Languages for AI problem solving,"A*, AO*, Minimax"
+Languages for AI problem solving,Constraint propagation
+Problem Solving through Search,"Neural, stochastic, and evolutionary search"
+Machine Learning and Knowledge Acquisition,Ontologies
+Intelligent agents,Predicate logic
+Expert Systems,Situation calculus
+Languages for AI problem solving,Description logics
+Languages for AI problem solving,Reasoning with defaults
+Intelligent agents,Reasoning about knowledge
+Intelligent agents,Planning as search
+Intelligent agents,Partial order planning
+Expert Systems,Planning graphs
+Planning,"Probability, Bayes rule"
+Expert Systems,Bayesian networks
+Representing and Reasoning with Uncertain Knowledge,Probabilistic inference
+Representing and Reasoning with Uncertain Knowledge,Utility and decision theory
+Representing and Reasoning with Uncertain Knowledge,Sequential decision problems
+Planning,Game theory
+Problem Solving through Search,Nearest neighbor
+Expert Systems,Naive Bayes
+Expert Systems,Decision trees
+Planning,Q-learning
+Intelligent agents,"Learning from examples, exploration"
+Languages for AI problem solving,PROLOG basics
+Languages for AI problem solving,LISP basics
+Expert Systems,Architecture
+Intelligent agents,"MYCIN, RI"
+Machine Learning and Knowledge Acquisition,Expert system shells
+Machine Learning and Knowledge Acquisition,Search algorithms in code
+Planning,"Game implementation (8-puzzle, Tic-Tac-Toe, Tower of Hanoi)"
+Problem Solving through Search,PROLOG logic programming
+Planning,Intelligent agents
