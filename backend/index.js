@@ -19,9 +19,9 @@ app.use((req, res, next) => {
   next();
 });
 
-app.options('*', (req, res) => {
-  res.sendStatus(200);
-});
+// app.options('*', (req, res) => {
+//   res.sendStatus(200);
+// });
 
 
 
@@ -138,6 +138,9 @@ app.post('/api/chat', async (req, res) => {
     res.status(500).json({ error: 'Chat failed' });
   }
 });
+app.get('/',()=>{
+  res.send("hi")
+})
 
 const PORT = process.env.PORT || 3030;
 app.listen(PORT, () => console.log(`🚀 Backend listening on ${PORT}`));
