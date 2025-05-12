@@ -138,7 +138,7 @@ app.post('/api/chat', async (req, res) => {
     res.status(500).json({ error: 'Chat failed' });
   }
 });
-app.get('/',()=>{
+app.get('/',(req,res)=>{
   res.send("hi")
 })
 
